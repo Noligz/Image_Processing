@@ -1,0 +1,120 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by Image_Processing.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDR_MAINFRAME                   128
+#define IDR_Image_ProcessinTYPE         129
+#define IDD_HIST                        130
+#define IDD_IMAGE                       131
+#define IDD_Kernel_Size                 132
+#define IDD_SLIDER                      132
+#define IDD_SIGMA                       133
+#define IDB_GREYSCALE                   134
+#define IDC_STATIC_HistRect             1000
+#define IDC_SAVE                        1001
+#define IDC_SLIDER1                     1004
+#define IDC_STATIC_TEXT                 1005
+#define IDC_SIGMA_VALUE                 1006
+#define IDC_SELECT_CHANNEL              1007
+#define IDC_STATIC_BMPBAR               1008
+#define ID_32771                        32771
+#define ID_32772                        32772
+#define ID_32773                        32773
+#define ID_HISTOGRAM_DRAW               32774
+#define ID_HIST_AVE                     32775
+#define ID_HIST_DRAW                    32776
+#define ID_HIST_MATCH                   32777
+#define ID_32778                        32778
+#define ID_32779                        32779
+#define ID_Menu                         32780
+#define ID_32781                        32781
+#define ID_32782                        32782
+#define ID_32783                        32783
+#define ID_32784                        32784
+#define ID_32785                        32785
+#define ID_32786                        32786
+#define ID_32787                        32787
+#define ID_32788                        32788
+#define ID_32789                        32789
+#define ID_32790                        32790
+#define ID_32791                        32791
+#define ID_32792                        32792
+#define ID_32793                        32793
+#define ID_Roborts                      32794
+#define ID_Prewitt                      32795
+#define ID_Sobel                        32796
+#define ID_Guassion                     32797
+#define ID_Mean                         32798
+#define ID_Median                       32799
+#define ID_Custom_Core                  32800
+#define ID_Custom_Mask                  32801
+#define ID_Roberts                      32802
+#define ID_Custom_Kernel                32803
+#define ID_NEAR_NEI                     32804
+#define ID_BILINEAR                     32805
+#define ID_BICUBIC                      32806
+#define ID_PLUS                         32807
+#define ID_MINUS                        32808
+#define ID_MULTIPLY                     32809
+#define ID_DIVIDE                       32810
+#define ID_32811                        32811
+#define ID_32812                        32812
+#define ID_32813                        32813
+#define ID_32814                        32814
+#define ID_32815                        32815
+#define ID_32816                        32816
+#define ID_32817                        32817
+#define ID_32818                        32818
+#define ID_32819                        32819
+#define ID_32820                        32820
+#define ID_32821                        32821
+#define ID_32822                        32822
+#define ID_BinaryDilation               32823
+#define ID_BinaryErosion                32824
+#define ID_BinaryOpen                   32825
+#define ID_BinaryClose                  32826
+#define ID_Skelenton                    32827
+#define ID_Skeleton                     32828
+#define ID_SkeletonReconstruction       32829
+#define ID_DTEuclidean                  32830
+#define ID_DTCityBlock                  32831
+#define ID_DTChessboard                 32832
+#define ID_32833                        32833
+#define ID_32834                        32834
+#define ID_32835                        32835
+#define ID_32836                        32836
+#define ID_GrayDilation                 32837
+#define ID_GrayErosion                  32838
+#define ID_GrayOpen                     32839
+#define ID_GrayClose                    32840
+#define ID_HW_32841                     32841
+#define ID_HW_CS                        32842
+#define ID_HW_32843                     32843
+#define ID_HW_Count                     32844
+#define ID_HW_32845                     32845
+#define ID_HW_Phone                     32846
+#define ID_HW_32847                     32847
+#define ID_HW_32848                     32848
+#define ID_HW_Noise                     32849
+#define ID_HW_Finger                    32850
+#define ID_32851                        32851
+#define ID_HSI_Hist                     32852
+#define ID_32853                        32853
+#define ID_HSI_HistAve                  32854
+#define ID_32855                        32855
+#define ID_32856                        32856
+#define ID_HSISmooth                    32857
+#define ID_HSISharp                     32858
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        136
+#define _APS_NEXT_COMMAND_VALUE         32859
+#define _APS_NEXT_CONTROL_VALUE         1009
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
